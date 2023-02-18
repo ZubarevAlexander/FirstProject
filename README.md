@@ -1,6 +1,6 @@
 ## Мой первый проект
 
-- Многостраничный сайт [посмотрите сами](https://zubarevalexander.github.io/First-Project).
+- Многостраничный сайт [посмотрите сами](https://zubarevalexander.github.io/FirstProject).
 - Этот проект демонстрирует мои навыки верстки, в том числе:
   * Работа с формами
   * Слайдер SWIPER
